@@ -1,11 +1,11 @@
 <div style="width: 100%; height: 100vh; overflow: hidden;">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFCFDA&height=300&section=header&text=heesu%20GitHub!&fontSize=80&fontColor=828282" alt="heesu GitHub!" style="width: 100%; height: 80%;" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFCFDA&height=300&section=header&text=heesu's%20GitHub!&fontSize=80&fontColor=828282" alt="heesu GitHub!" style="width: 100%; height: 80%;" />
 </div>
 
 <div align=center>
   ✌ Introduction <br> <br>
   안녕하세요! 코드 외에도 소통이 개발의 핵심이라고 생각하는 신입 개발자입니다. <br>
-  팀원들과의 원활한 소통을 통해 문제를 해결하고 다양한 의견을 수용하며 계속해서 성장하고 싶어요💕
+  다양한 의견을 수용하며 계속해서 성장하고 싶어요💕
 </div>  
 <br>
 <div align=center>
@@ -40,6 +40,7 @@
 <div align=center>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="notion logo"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="slack logo"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="discord logo"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma logo"/>
 </div>
 
