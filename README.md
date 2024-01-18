@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFCFDA&height=300&section=header&text=heesu%20GitHub!&fontSize=70&fontColor=AFDDFA)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFCFDA&height=300&section=header&text=heesu%20GitHub!&fontSize=70&fontColor=B4B4FF)
 
 <!--
 **heesus2/heesus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
