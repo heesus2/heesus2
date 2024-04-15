@@ -46,23 +46,18 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma logo"/>
 </div>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heesus2&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
-</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heesus2&show_icons=true&theme=dracula" alt="heesus2's GitHub stats">
+</p> -->
+
+<div align="center">
+	<p><b>📌 my github stats 📌</b></p>
+	<a href="https://github.com/heesus2/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heesus2&show_icons=true&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heesus2&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4"/>
+</a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFCFDA&height=300&section=footer)
 
 
-
-<!--
-**heesus2/heesus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
