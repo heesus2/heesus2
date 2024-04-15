@@ -1,6 +1,6 @@
-<div style="width: 100%; height: 100vh; overflow: hidden;">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFCFDA&height=300&section=header&text=heesu's%20GitHub!&fontSize=80&fontColor=828282" alt="heesu GitHub!" style="width: 100%; height: 80%;" />
-</div>
+
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFCFDA&height=300&section=header&text=heesu's%20GitHub!&fontSize=70&fontColor=828282" alt="heesu GitHub!"/>
+
 
 <div align=center>
   <h2><b> ✌ Introduction </b></h2> <br>
@@ -58,6 +58,6 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heesus2&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4"/>
 </a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FFCFDA&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFCFDA&height=200&section=footer)
 
 
